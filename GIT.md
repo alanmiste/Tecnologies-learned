@@ -1,6 +1,11 @@
 <img src="https://3.bp.blogspot.com/-xhNpNJJyQhk/XIe4GY78RQI/AAAAAAAAItc/ouueFUj2Hqo5dntmnKqEaBJR4KQ4Q2K3ACK4BGAYYCw/s1600/logo%2Bgit%2Bicon.png" alt="GIT Logo" width="200"/>
 
 # GIT
+
+## What is GIT all about?
+
+*Git (/ɡɪt/)[7] is software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development. Its goals include speed, data integrity, and support for distributed, non-linear workflows (thousands of parallel branches running on different systems).1*
+
 ## What have we learned so far?
 
 1. We learned to set up GIT on or local machines and learned git init
