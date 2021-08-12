@@ -9,3 +9,5 @@
 ### CSS Syntax:
 
 ![CSS Syntax](https://www.w3schools.com/css/img_selector.gif)
+
+## Some of CSS Rules:
