@@ -42,3 +42,63 @@ p.dotted {border-style: dotted;
           border-radius: 5px;
           }
 ```
+---
+
+3. CSS Padding : Padding is used to create space around an element's content, inside of any defined borders.
+
+#### Example
+
+Set different padding for all four sides of a ```<div>``` element:  
+```CSS:
+div {
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+```
+
+---
+
+4. CSS Height and Width :The CSS height and width properties are used to set the height and width of an element.
+
+The CSS max-width property is used to set the maximum width of an element.
+
+#### Example
+
+Set the height and width of a ```<div>``` element:
+  
+  ```CSS:
+  div {
+  height: 200px;
+  width: 50%;
+  background-color: powderblue;
+}
+  ```
+  
+  ---
+  
+  5. CSS Backgrounds : The CSS background properties are used to add background effects for elements.
+  
+  #### Example
+
+The background color of a page is set like this:
+
+```CSS :
+body {
+  background-color: lightblue;
+}
+```
+
+---
+
+6. CSS Links : With CSS, links can be styled in many different ways.
+
+In addition, links can be styled differently depending on what state they are in.
+
+The four links states are:
+
+    a:link - a normal, unvisited link
+    a:visited - a link the user has visited
+    a:hover - a link when the user mouses over it
+    a:active - a link the moment it is clicked
