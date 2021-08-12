@@ -26,5 +26,18 @@ p {
   margin-left: 80px;
 }
 ```
+---
 
 2. CSS Borders : The CSS border properties allow you to specify the style, width, and color of an element's border.
+
+#### Example
+
+Demonstration of the different border styles:
+
+```CSS :
+p.dotted {border-style: dotted;
+          border-style: solid;
+          border-width: 5px;
+          border-color: red;
+          border-radius: 5px;
+          }```
