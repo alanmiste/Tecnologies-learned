@@ -49,7 +49,7 @@ p.dotted {border-style: dotted;
 #### Example
 
 Set different padding for all four sides of a ```<div>``` element:  
-```CSS:
+```CSS :
 div {
   padding-top: 50px;
   padding-right: 30px;
@@ -68,7 +68,7 @@ The CSS max-width property is used to set the maximum width of an element.
 
 Set the height and width of a ```<div>``` element:
   
-  ```CSS:
+  ```CSS : 
   div {
   height: 200px;
   width: 50%;
@@ -105,7 +105,7 @@ The four links states are:
 
 #### Example
 
-```CSS:
+```CSS :
  /* unvisited link */
 a:link {
   color: red;
@@ -147,7 +147,7 @@ Elements are then positioned using the top, bottom, left, and right properties. 
 
 #### Example
 
-```CSS:
+```CSS :
 div.static {
   position: static;
 }
@@ -166,7 +166,7 @@ The opacity property can take a value from 0.0 - 1.0. The lower value, the more 
 
 #### Example
 
-```CSS:
+```CSS :
 img {
   opacity: 0.5;
 }
@@ -180,7 +180,7 @@ A CSS comment is placed inside the ```<style>``` element, and starts with ```/*`
 
 #### Example
 
-```CSS:
+```CSS :
  /* This is a single-line comment */
 p {
   color: red;
@@ -203,7 +203,7 @@ In CSS, a color can be specified by using a predefined color name:
 
 #### Example
 
-```CSS:
+```CSS :
 <h1 style="background-color:DodgerBlue;">Hello World</h1>
 <p style="background-color:Tomato;">Lorem ipsum...</p> 
 ```
