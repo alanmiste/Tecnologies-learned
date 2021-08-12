@@ -157,3 +157,53 @@ div.relative {
   }
   
   ```
+
+---
+
+8. CSS Opacity / Transparency : The opacity property specifies the opacity/transparency of an element.
+
+The opacity property can take a value from 0.0 - 1.0. The lower value, the more transparent
+
+#### Example
+
+```CSS:
+img {
+  opacity: 0.5;
+}
+```
+
+---
+
+9. CSS Comments : CSS comments are not displayed in the browser, but they can help document your source code.
+
+A CSS comment is placed inside the ```<style>``` element, and starts with ```/*``` and ends with ```*/```
+
+#### Example
+
+```CSS:
+ /* This is a single-line comment */
+p {
+  color: red;
+} 
+```
+
+---
+
+10. CSS Colors: Colors are specified using predefined color names, or RGB, HEX, HSL, RGBA, HSLA values.
+
+In CSS, a color can be specified by using a predefined color name:
+- Tomato
+- Orange
+- DodgerBlue
+- MediumSeaGreen
+- Gray
+- SlateBlue
+- Violet
+- LightGray
+
+#### Example
+
+```CSS:
+<h1 style="background-color:DodgerBlue;">Hello World</h1>
+<p style="background-color:Tomato;">Lorem ipsum...</p> 
+```
